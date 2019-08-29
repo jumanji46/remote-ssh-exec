@@ -3,9 +3,8 @@ Simple php script that allows a client to log in to a server and run predetermin
 
 Pre-requisites:
  - PHP 5.x or newer
+ - Apache2 web server
  - libssh2 or php-ssh2
- - tested in Ubuntu 16.04 client environment using Apache2 service 
- - tested on Ubuntu 12.04, 14.04, 16.04 servers
  
 Usage:
  - place the php files in the Apache2 webserver (i.e. /var/www/html)
@@ -13,6 +12,8 @@ Usage:
  - edit ssh commands in the login.php script
  
 Additional notes:
+ - tested in Ubuntu 16.04 client environment using Apache2 service 
+ - tested on Ubuntu 12.04, 14.04, 16.04 servers
  - error checking is very limited
  - includes some bootstrap styling
  - it is a work in progess and helpful tips or changes are very welcome
