@@ -1,5 +1,5 @@
 # remote-ssh-exec
-Simple php script that allows a client to log in to a server and run predetermined ssh commands
+Simple (beginner-level) php script that allows a client to log in to a server and run predetermined ssh commands
 
 Pre-requisites:
  - PHP 5.x or newer
