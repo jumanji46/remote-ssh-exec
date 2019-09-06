@@ -17,4 +17,4 @@ Additional notes:
  - tested on Ubuntu 12.04, 14.04, 16.04 servers
  - error checking is very limited
  - includes some bootstrap styling
- - it is a work in progess and helpful tips or changes are very welcome
+ - add more commands in the run.php
