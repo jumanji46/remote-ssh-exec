@@ -10,7 +10,7 @@ Usage:
  - place the php files in the Apache2 webserver (i.e. /var/www/html)
  - open the index.php file within the web environment
  - login to a remote server by inputing the server address, username and password in the form
- - edit ssh commands in the login.php script
+ - edit ssh commands in the run.php script
  
 Additional notes:
  - tested in Ubuntu 16.04 client environment using Apache2 service 
